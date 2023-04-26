@@ -1,6 +1,6 @@
 # NN-modeling
 
-demo workflow of NN model 
+demo workflow of a NN model 
 
 ## Data
 The input dat for preprocessing part (01_ImgChips.ipynb) can be downloaded here: https://drive.google.com/drive/folders/12IBuZX0bF-KKsG9MLx9Mbsz65vW9GNwm?usp=share_link.
