@@ -3,7 +3,7 @@
 demo workflow of a NN model 
 
 ## Data
-The input dat for preprocessing part (01_ImgChips.ipynb) can be downloaded here: https://drive.google.com/drive/folders/12IBuZX0bF-KKsG9MLx9Mbsz65vW9GNwm?usp=share_link.
+The input dat for preprocessing part (01_ImgChips.ipynb) can be downloaded here: https://drive.google.com/drive/folders/1fMfdQAm7ib7DHwS6Wf-xqNUkRmJdLvkt?usp=sharing.
 The file contains **satellite data** (imagery.tif) and **reference data** (labels.tif) needed for the training of the model.
 In addition, a **QGIS style layer** (labels_style.qml) is included for better visualization of the reference data.
 
